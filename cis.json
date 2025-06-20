@@ -1,0 +1,6037 @@
+{
+  "MMM": {
+    "ticker": "MMM",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "AOS": {
+    "ticker": "AOS",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ABT": {
+    "ticker": "ABT",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ABBV": {
+    "ticker": "ABBV",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ACN": {
+    "ticker": "ACN",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ADBE": {
+    "ticker": "ADBE",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "AMD": {
+    "ticker": "AMD",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "AES": {
+    "ticker": "AES",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "AFL": {
+    "ticker": "AFL",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "A": {
+    "ticker": "A",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "S1",
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "APD": {
+    "ticker": "APD",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ABNB": {
+    "ticker": "ABNB",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "AKAM": {
+    "ticker": "AKAM",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ALB": {
+    "ticker": "ALB",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ARE": {
+    "ticker": "ARE",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ALGN": {
+    "ticker": "ALGN",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ALLE": {
+    "ticker": "ALLE",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "LNT": {
+    "ticker": "LNT",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ALL": {
+    "ticker": "ALL",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "GOOGL": {
+    "ticker": "GOOGL",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "GOOG": {
+    "ticker": "GOOG",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "MO": {
+    "ticker": "MO",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "AMZN": {
+    "ticker": "AMZN",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "AMCR": {
+    "ticker": "AMCR",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "AEE": {
+    "ticker": "AEE",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "AEP": {
+    "ticker": "AEP",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "AXP": {
+    "ticker": "AXP",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "AIG": {
+    "ticker": "AIG",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "AMT": {
+    "ticker": "AMT",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "AWK": {
+    "ticker": "AWK",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "AMP": {
+    "ticker": "AMP",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "AME": {
+    "ticker": "AME",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "AMGN": {
+    "ticker": "AMGN",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "APH": {
+    "ticker": "APH",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ADI": {
+    "ticker": "ADI",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ANSS": {
+    "ticker": "ANSS",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "AON": {
+    "ticker": "AON",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "APA": {
+    "ticker": "APA",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "APO": {
+    "ticker": "APO",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "AAPL": {
+    "ticker": "AAPL",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "AMAT": {
+    "ticker": "AMAT",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "APTV": {
+    "ticker": "APTV",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ACGL": {
+    "ticker": "ACGL",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ADM": {
+    "ticker": "ADM",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ANET": {
+    "ticker": "ANET",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "AJG": {
+    "ticker": "AJG",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "AIZ": {
+    "ticker": "AIZ",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "T": {
+    "ticker": "T",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ATO": {
+    "ticker": "ATO",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ADSK": {
+    "ticker": "ADSK",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ADP": {
+    "ticker": "ADP",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "AZO": {
+    "ticker": "AZO",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "AVB": {
+    "ticker": "AVB",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "AVY": {
+    "ticker": "AVY",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "AXON": {
+    "ticker": "AXON",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "BKR": {
+    "ticker": "BKR",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "BALL": {
+    "ticker": "BALL",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "BAC": {
+    "ticker": "BAC",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "BAX": {
+    "ticker": "BAX",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "BDX": {
+    "ticker": "BDX",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "BRK.B": {
+    "ticker": "BRK.B",
+    "date": "2025-06-20",
+    "absolute_flags": [],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 100,
+    "verdict": "EJEMPLAR"
+  },
+  "BBY": {
+    "ticker": "BBY",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "TECH": {
+    "ticker": "TECH",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "BIIB": {
+    "ticker": "BIIB",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "BLK": {
+    "ticker": "BLK",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "BX": {
+    "ticker": "BX",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "BK": {
+    "ticker": "BK",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "BA": {
+    "ticker": "BA",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "BKNG": {
+    "ticker": "BKNG",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "BSX": {
+    "ticker": "BSX",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "BMY": {
+    "ticker": "BMY",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "AVGO": {
+    "ticker": "AVGO",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "BR": {
+    "ticker": "BR",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "BRO": {
+    "ticker": "BRO",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "BF.B": {
+    "ticker": "BF.B",
+    "date": "2025-06-20",
+    "absolute_flags": [],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 100,
+    "verdict": "EJEMPLAR"
+  },
+  "BLDR": {
+    "ticker": "BLDR",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "BG": {
+    "ticker": "BG",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "BXP": {
+    "ticker": "BXP",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CHRW": {
+    "ticker": "CHRW",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CDNS": {
+    "ticker": "CDNS",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CZR": {
+    "ticker": "CZR",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CPT": {
+    "ticker": "CPT",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CPB": {
+    "ticker": "CPB",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "COF": {
+    "ticker": "COF",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CAH": {
+    "ticker": "CAH",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "KMX": {
+    "ticker": "KMX",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CCL": {
+    "ticker": "CCL",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CARR": {
+    "ticker": "CARR",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CAT": {
+    "ticker": "CAT",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CBOE": {
+    "ticker": "CBOE",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CBRE": {
+    "ticker": "CBRE",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CDW": {
+    "ticker": "CDW",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "COR": {
+    "ticker": "COR",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CNC": {
+    "ticker": "CNC",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CNP": {
+    "ticker": "CNP",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CF": {
+    "ticker": "CF",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CRL": {
+    "ticker": "CRL",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "SCHW": {
+    "ticker": "SCHW",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CHTR": {
+    "ticker": "CHTR",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CVX": {
+    "ticker": "CVX",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CMG": {
+    "ticker": "CMG",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CB": {
+    "ticker": "CB",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CHD": {
+    "ticker": "CHD",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CI": {
+    "ticker": "CI",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CINF": {
+    "ticker": "CINF",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CTAS": {
+    "ticker": "CTAS",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CSCO": {
+    "ticker": "CSCO",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "C": {
+    "ticker": "C",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CFG": {
+    "ticker": "CFG",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CLX": {
+    "ticker": "CLX",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CME": {
+    "ticker": "CME",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CMS": {
+    "ticker": "CMS",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "KO": {
+    "ticker": "KO",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CTSH": {
+    "ticker": "CTSH",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "COIN": {
+    "ticker": "COIN",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CL": {
+    "ticker": "CL",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CMCSA": {
+    "ticker": "CMCSA",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CAG": {
+    "ticker": "CAG",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "COP": {
+    "ticker": "COP",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ED": {
+    "ticker": "ED",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "STZ": {
+    "ticker": "STZ",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CEG": {
+    "ticker": "CEG",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "COO": {
+    "ticker": "COO",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CPRT": {
+    "ticker": "CPRT",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "GLW": {
+    "ticker": "GLW",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CPAY": {
+    "ticker": "CPAY",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CTVA": {
+    "ticker": "CTVA",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CSGP": {
+    "ticker": "CSGP",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "COST": {
+    "ticker": "COST",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CTRA": {
+    "ticker": "CTRA",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CRWD": {
+    "ticker": "CRWD",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CCI": {
+    "ticker": "CCI",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CSX": {
+    "ticker": "CSX",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CMI": {
+    "ticker": "CMI",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CVS": {
+    "ticker": "CVS",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "DHR": {
+    "ticker": "DHR",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "DRI": {
+    "ticker": "DRI",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "DVA": {
+    "ticker": "DVA",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "DAY": {
+    "ticker": "DAY",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "DECK": {
+    "ticker": "DECK",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "DE": {
+    "ticker": "DE",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "DELL": {
+    "ticker": "DELL",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "DAL": {
+    "ticker": "DAL",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "DVN": {
+    "ticker": "DVN",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "DXCM": {
+    "ticker": "DXCM",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "FANG": {
+    "ticker": "FANG",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "DLR": {
+    "ticker": "DLR",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "DG": {
+    "ticker": "DG",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "DLTR": {
+    "ticker": "DLTR",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "D": {
+    "ticker": "D",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "DPZ": {
+    "ticker": "DPZ",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "DASH": {
+    "ticker": "DASH",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "DOV": {
+    "ticker": "DOV",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "DOW": {
+    "ticker": "DOW",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "DHI": {
+    "ticker": "DHI",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "DTE": {
+    "ticker": "DTE",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "DUK": {
+    "ticker": "DUK",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "DD": {
+    "ticker": "DD",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "EMN": {
+    "ticker": "EMN",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ETN": {
+    "ticker": "ETN",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "EBAY": {
+    "ticker": "EBAY",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ECL": {
+    "ticker": "ECL",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "EIX": {
+    "ticker": "EIX",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "EW": {
+    "ticker": "EW",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "EA": {
+    "ticker": "EA",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ELV": {
+    "ticker": "ELV",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "EMR": {
+    "ticker": "EMR",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ENPH": {
+    "ticker": "ENPH",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ETR": {
+    "ticker": "ETR",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "EOG": {
+    "ticker": "EOG",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "EPAM": {
+    "ticker": "EPAM",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "EQT": {
+    "ticker": "EQT",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "EFX": {
+    "ticker": "EFX",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "EQIX": {
+    "ticker": "EQIX",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "EQR": {
+    "ticker": "EQR",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ERIE": {
+    "ticker": "ERIE",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ESS": {
+    "ticker": "ESS",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "EL": {
+    "ticker": "EL",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "EG": {
+    "ticker": "EG",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "EVRG": {
+    "ticker": "EVRG",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ES": {
+    "ticker": "ES",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "EXC": {
+    "ticker": "EXC",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "EXE": {
+    "ticker": "EXE",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "EXPE": {
+    "ticker": "EXPE",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "EXPD": {
+    "ticker": "EXPD",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "EXR": {
+    "ticker": "EXR",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "XOM": {
+    "ticker": "XOM",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "FFIV": {
+    "ticker": "FFIV",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "FDS": {
+    "ticker": "FDS",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "FICO": {
+    "ticker": "FICO",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "FAST": {
+    "ticker": "FAST",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "FRT": {
+    "ticker": "FRT",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "FDX": {
+    "ticker": "FDX",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "FIS": {
+    "ticker": "FIS",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "FITB": {
+    "ticker": "FITB",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "FSLR": {
+    "ticker": "FSLR",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "FE": {
+    "ticker": "FE",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "FI": {
+    "ticker": "FI",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "F": {
+    "ticker": "F",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "FTNT": {
+    "ticker": "FTNT",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "FTV": {
+    "ticker": "FTV",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "FOXA": {
+    "ticker": "FOXA",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "FOX": {
+    "ticker": "FOX",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "BEN": {
+    "ticker": "BEN",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "FCX": {
+    "ticker": "FCX",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "GRMN": {
+    "ticker": "GRMN",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "IT": {
+    "ticker": "IT",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "GE": {
+    "ticker": "GE",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "GEHC": {
+    "ticker": "GEHC",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "GEV": {
+    "ticker": "GEV",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "GEN": {
+    "ticker": "GEN",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "GNRC": {
+    "ticker": "GNRC",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "GD": {
+    "ticker": "GD",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "GIS": {
+    "ticker": "GIS",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "GM": {
+    "ticker": "GM",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "GPC": {
+    "ticker": "GPC",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "GILD": {
+    "ticker": "GILD",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "GPN": {
+    "ticker": "GPN",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "GL": {
+    "ticker": "GL",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "GDDY": {
+    "ticker": "GDDY",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "GS": {
+    "ticker": "GS",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "HAL": {
+    "ticker": "HAL",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "HIG": {
+    "ticker": "HIG",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "HAS": {
+    "ticker": "HAS",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "HCA": {
+    "ticker": "HCA",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "DOC": {
+    "ticker": "DOC",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "HSIC": {
+    "ticker": "HSIC",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "HSY": {
+    "ticker": "HSY",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "HES": {
+    "ticker": "HES",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "HPE": {
+    "ticker": "HPE",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "HLT": {
+    "ticker": "HLT",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "HOLX": {
+    "ticker": "HOLX",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "HD": {
+    "ticker": "HD",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "HON": {
+    "ticker": "HON",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "HRL": {
+    "ticker": "HRL",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "HST": {
+    "ticker": "HST",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "HWM": {
+    "ticker": "HWM",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "HPQ": {
+    "ticker": "HPQ",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "HUBB": {
+    "ticker": "HUBB",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "HUM": {
+    "ticker": "HUM",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "HBAN": {
+    "ticker": "HBAN",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "HII": {
+    "ticker": "HII",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "ARMS",
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "IBM": {
+    "ticker": "IBM",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "IEX": {
+    "ticker": "IEX",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "IDXX": {
+    "ticker": "IDXX",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ITW": {
+    "ticker": "ITW",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "INCY": {
+    "ticker": "INCY",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "IR": {
+    "ticker": "IR",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "PODD": {
+    "ticker": "PODD",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "INTC": {
+    "ticker": "INTC",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ICE": {
+    "ticker": "ICE",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "IFF": {
+    "ticker": "IFF",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "IP": {
+    "ticker": "IP",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "IPG": {
+    "ticker": "IPG",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "INTU": {
+    "ticker": "INTU",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ISRG": {
+    "ticker": "ISRG",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "IVZ": {
+    "ticker": "IVZ",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "INVH": {
+    "ticker": "INVH",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "IQV": {
+    "ticker": "IQV",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "IRM": {
+    "ticker": "IRM",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "JBHT": {
+    "ticker": "JBHT",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "JBL": {
+    "ticker": "JBL",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "JKHY": {
+    "ticker": "JKHY",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "J": {
+    "ticker": "J",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "JNJ": {
+    "ticker": "JNJ",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "JCI": {
+    "ticker": "JCI",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "JPM": {
+    "ticker": "JPM",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "JNPR": {
+    "ticker": "JNPR",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "K": {
+    "ticker": "K",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "KVUE": {
+    "ticker": "KVUE",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "KDP": {
+    "ticker": "KDP",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "KEY": {
+    "ticker": "KEY",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "KEYS": {
+    "ticker": "KEYS",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "KMB": {
+    "ticker": "KMB",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "KIM": {
+    "ticker": "KIM",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "KMI": {
+    "ticker": "KMI",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "KKR": {
+    "ticker": "KKR",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "KLAC": {
+    "ticker": "KLAC",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "KHC": {
+    "ticker": "KHC",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "KR": {
+    "ticker": "KR",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "LHX": {
+    "ticker": "LHX",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "LH": {
+    "ticker": "LH",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "LRCX": {
+    "ticker": "LRCX",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "LW": {
+    "ticker": "LW",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "LVS": {
+    "ticker": "LVS",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "LDOS": {
+    "ticker": "LDOS",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "LEN": {
+    "ticker": "LEN",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "LII": {
+    "ticker": "LII",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "LLY": {
+    "ticker": "LLY",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "LIN": {
+    "ticker": "LIN",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "LYV": {
+    "ticker": "LYV",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "LKQ": {
+    "ticker": "LKQ",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "LMT": {
+    "ticker": "LMT",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "L": {
+    "ticker": "L",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "LOW": {
+    "ticker": "LOW",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "LULU": {
+    "ticker": "LULU",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "LYB": {
+    "ticker": "LYB",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "MTB": {
+    "ticker": "MTB",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "MPC": {
+    "ticker": "MPC",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "MKTX": {
+    "ticker": "MKTX",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "MAR": {
+    "ticker": "MAR",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "MMC": {
+    "ticker": "MMC",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "MLM": {
+    "ticker": "MLM",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "MAS": {
+    "ticker": "MAS",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "MA": {
+    "ticker": "MA",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "MTCH": {
+    "ticker": "MTCH",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "MKC": {
+    "ticker": "MKC",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "MCD": {
+    "ticker": "MCD",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "MCK": {
+    "ticker": "MCK",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "MDT": {
+    "ticker": "MDT",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "MRK": {
+    "ticker": "MRK",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "META": {
+    "ticker": "META",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "MET": {
+    "ticker": "MET",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "MTD": {
+    "ticker": "MTD",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "MGM": {
+    "ticker": "MGM",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "MCHP": {
+    "ticker": "MCHP",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "MU": {
+    "ticker": "MU",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "MSFT": {
+    "ticker": "MSFT",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "MAA": {
+    "ticker": "MAA",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "MRNA": {
+    "ticker": "MRNA",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "MHK": {
+    "ticker": "MHK",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "MOH": {
+    "ticker": "MOH",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "TAP": {
+    "ticker": "TAP",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "MDLZ": {
+    "ticker": "MDLZ",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "MPWR": {
+    "ticker": "MPWR",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "MNST": {
+    "ticker": "MNST",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "MCO": {
+    "ticker": "MCO",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "MS": {
+    "ticker": "MS",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "MOS": {
+    "ticker": "MOS",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "MSI": {
+    "ticker": "MSI",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "MSCI": {
+    "ticker": "MSCI",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "NDAQ": {
+    "ticker": "NDAQ",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "NTAP": {
+    "ticker": "NTAP",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "NFLX": {
+    "ticker": "NFLX",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "NEM": {
+    "ticker": "NEM",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "NWSA": {
+    "ticker": "NWSA",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "NWS": {
+    "ticker": "NWS",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "NEE": {
+    "ticker": "NEE",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "NKE": {
+    "ticker": "NKE",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "NI": {
+    "ticker": "NI",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "NDSN": {
+    "ticker": "NDSN",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "NSC": {
+    "ticker": "NSC",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "NTRS": {
+    "ticker": "NTRS",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "NOC": {
+    "ticker": "NOC",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "NCLH": {
+    "ticker": "NCLH",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "NRG": {
+    "ticker": "NRG",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "NUE": {
+    "ticker": "NUE",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "NVDA": {
+    "ticker": "NVDA",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "NVR": {
+    "ticker": "NVR",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "NXPI": {
+    "ticker": "NXPI",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ORLY": {
+    "ticker": "ORLY",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "OXY": {
+    "ticker": "OXY",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ODFL": {
+    "ticker": "ODFL",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "OMC": {
+    "ticker": "OMC",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ON": {
+    "ticker": "ON",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "OKE": {
+    "ticker": "OKE",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ORCL": {
+    "ticker": "ORCL",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "OTIS": {
+    "ticker": "OTIS",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "PCAR": {
+    "ticker": "PCAR",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "PKG": {
+    "ticker": "PKG",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "PLTR": {
+    "ticker": "PLTR",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "PANW": {
+    "ticker": "PANW",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "PARA": {
+    "ticker": "PARA",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "PH": {
+    "ticker": "PH",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "PAYX": {
+    "ticker": "PAYX",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "PAYC": {
+    "ticker": "PAYC",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "PYPL": {
+    "ticker": "PYPL",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "PNR": {
+    "ticker": "PNR",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "PEP": {
+    "ticker": "PEP",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "PFE": {
+    "ticker": "PFE",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "PCG": {
+    "ticker": "PCG",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "PM": {
+    "ticker": "PM",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "PSX": {
+    "ticker": "PSX",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "PNW": {
+    "ticker": "PNW",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "PNC": {
+    "ticker": "PNC",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "POOL": {
+    "ticker": "POOL",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "PPG": {
+    "ticker": "PPG",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "PPL": {
+    "ticker": "PPL",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "PFG": {
+    "ticker": "PFG",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "PG": {
+    "ticker": "PG",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "PGR": {
+    "ticker": "PGR",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "PLD": {
+    "ticker": "PLD",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "PRU": {
+    "ticker": "PRU",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "PEG": {
+    "ticker": "PEG",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "PTC": {
+    "ticker": "PTC",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "PSA": {
+    "ticker": "PSA",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "PHM": {
+    "ticker": "PHM",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "PWR": {
+    "ticker": "PWR",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "QCOM": {
+    "ticker": "QCOM",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "DGX": {
+    "ticker": "DGX",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "RL": {
+    "ticker": "RL",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "RJF": {
+    "ticker": "RJF",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "RTX": {
+    "ticker": "RTX",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "ARMS",
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "O": {
+    "ticker": "O",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "REG": {
+    "ticker": "REG",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "REGN": {
+    "ticker": "REGN",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "RF": {
+    "ticker": "RF",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "RSG": {
+    "ticker": "RSG",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "RMD": {
+    "ticker": "RMD",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "RVTY": {
+    "ticker": "RVTY",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ROK": {
+    "ticker": "ROK",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ROL": {
+    "ticker": "ROL",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ROP": {
+    "ticker": "ROP",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ROST": {
+    "ticker": "ROST",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "RCL": {
+    "ticker": "RCL",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "SPGI": {
+    "ticker": "SPGI",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "CRM": {
+    "ticker": "CRM",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "SBAC": {
+    "ticker": "SBAC",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "SLB": {
+    "ticker": "SLB",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "STX": {
+    "ticker": "STX",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "SRE": {
+    "ticker": "SRE",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "NOW": {
+    "ticker": "NOW",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "SHW": {
+    "ticker": "SHW",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "SPG": {
+    "ticker": "SPG",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "SWKS": {
+    "ticker": "SWKS",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "SJM": {
+    "ticker": "SJM",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "SW": {
+    "ticker": "SW",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "SNA": {
+    "ticker": "SNA",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "SOLV": {
+    "ticker": "SOLV",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "SO": {
+    "ticker": "SO",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "LUV": {
+    "ticker": "LUV",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "SWK": {
+    "ticker": "SWK",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "SBUX": {
+    "ticker": "SBUX",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "STT": {
+    "ticker": "STT",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "STLD": {
+    "ticker": "STLD",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "STE": {
+    "ticker": "STE",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "SYK": {
+    "ticker": "SYK",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "SMCI": {
+    "ticker": "SMCI",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "SYF": {
+    "ticker": "SYF",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "SNPS": {
+    "ticker": "SNPS",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "SYY": {
+    "ticker": "SYY",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "TMUS": {
+    "ticker": "TMUS",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "TROW": {
+    "ticker": "TROW",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "TTWO": {
+    "ticker": "TTWO",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "TPR": {
+    "ticker": "TPR",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "TRGP": {
+    "ticker": "TRGP",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "TGT": {
+    "ticker": "TGT",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "TEL": {
+    "ticker": "TEL",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "TDY": {
+    "ticker": "TDY",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "TER": {
+    "ticker": "TER",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "TSLA": {
+    "ticker": "TSLA",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "TXN": {
+    "ticker": "TXN",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "TPL": {
+    "ticker": "TPL",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "TXT": {
+    "ticker": "TXT",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "TMO": {
+    "ticker": "TMO",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "TJX": {
+    "ticker": "TJX",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "TKO": {
+    "ticker": "TKO",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "TSCO": {
+    "ticker": "TSCO",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "TT": {
+    "ticker": "TT",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "TDG": {
+    "ticker": "TDG",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "TRV": {
+    "ticker": "TRV",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "TRMB": {
+    "ticker": "TRMB",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "TFC": {
+    "ticker": "TFC",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "TYL": {
+    "ticker": "TYL",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "TSN": {
+    "ticker": "TSN",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "USB": {
+    "ticker": "USB",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "UBER": {
+    "ticker": "UBER",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "UDR": {
+    "ticker": "UDR",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ULTA": {
+    "ticker": "ULTA",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "UNP": {
+    "ticker": "UNP",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "UAL": {
+    "ticker": "UAL",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "UPS": {
+    "ticker": "UPS",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "URI": {
+    "ticker": "URI",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "UNH": {
+    "ticker": "UNH",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "UHS": {
+    "ticker": "UHS",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "VLO": {
+    "ticker": "VLO",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "VTR": {
+    "ticker": "VTR",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "VLTO": {
+    "ticker": "VLTO",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "VRSN": {
+    "ticker": "VRSN",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "VRSK": {
+    "ticker": "VRSK",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "VZ": {
+    "ticker": "VZ",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "VRTX": {
+    "ticker": "VRTX",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "VTRS": {
+    "ticker": "VTRS",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "VICI": {
+    "ticker": "VICI",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "V": {
+    "ticker": "V",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "VST": {
+    "ticker": "VST",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "VMC": {
+    "ticker": "VMC",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "WRB": {
+    "ticker": "WRB",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "GWW": {
+    "ticker": "GWW",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "WAB": {
+    "ticker": "WAB",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "WBA": {
+    "ticker": "WBA",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "WMT": {
+    "ticker": "WMT",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "DIS": {
+    "ticker": "DIS",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "WBD": {
+    "ticker": "WBD",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "WM": {
+    "ticker": "WM",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "WAT": {
+    "ticker": "WAT",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "WEC": {
+    "ticker": "WEC",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "WFC": {
+    "ticker": "WFC",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "WELL": {
+    "ticker": "WELL",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "WST": {
+    "ticker": "WST",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "WDC": {
+    "ticker": "WDC",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "WY": {
+    "ticker": "WY",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "WSM": {
+    "ticker": "WSM",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "WMB": {
+    "ticker": "WMB",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "WTW": {
+    "ticker": "WTW",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "WDAY": {
+    "ticker": "WDAY",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "WYNN": {
+    "ticker": "WYNN",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "XEL": {
+    "ticker": "XEL",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "XYL": {
+    "ticker": "XYL",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "YUM": {
+    "ticker": "YUM",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ZBRA": {
+    "ticker": "ZBRA",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ZBH": {
+    "ticker": "ZBH",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  },
+  "ZTS": {
+    "ticker": "ZTS",
+    "date": "2025-06-20",
+    "absolute_flags": [
+      "FAITH_PERSEC"
+    ],
+    "bonuses": [],
+    "sources": [],
+    "encyclicals": [],
+    "CIS": 0,
+    "verdict": "INCOMPATIBLE"
+  }
+}
