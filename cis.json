@@ -1,7 +1,7 @@
 {
   "MMM": {
     "ticker": "MMM",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -13,7 +13,7 @@
   },
   "AOS": {
     "ticker": "AOS",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -25,7 +25,7 @@
   },
   "ABT": {
     "ticker": "ABT",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -37,7 +37,7 @@
   },
   "ABBV": {
     "ticker": "ABBV",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -49,7 +49,7 @@
   },
   "ACN": {
     "ticker": "ACN",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -61,7 +61,7 @@
   },
   "ADBE": {
     "ticker": "ADBE",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -73,7 +73,7 @@
   },
   "AMD": {
     "ticker": "AMD",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -85,7 +85,7 @@
   },
   "AES": {
     "ticker": "AES",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -97,7 +97,7 @@
   },
   "AFL": {
     "ticker": "AFL",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -109,7 +109,7 @@
   },
   "A": {
     "ticker": "A",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "S1",
       "FAITH_PERSEC"
@@ -122,7 +122,7 @@
   },
   "APD": {
     "ticker": "APD",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -134,7 +134,7 @@
   },
   "ABNB": {
     "ticker": "ABNB",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -146,7 +146,7 @@
   },
   "AKAM": {
     "ticker": "AKAM",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -158,7 +158,7 @@
   },
   "ALB": {
     "ticker": "ALB",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -170,7 +170,7 @@
   },
   "ARE": {
     "ticker": "ARE",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -182,7 +182,7 @@
   },
   "ALGN": {
     "ticker": "ALGN",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -194,7 +194,7 @@
   },
   "ALLE": {
     "ticker": "ALLE",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -206,7 +206,7 @@
   },
   "LNT": {
     "ticker": "LNT",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -218,7 +218,7 @@
   },
   "ALL": {
     "ticker": "ALL",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -230,7 +230,7 @@
   },
   "GOOGL": {
     "ticker": "GOOGL",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -242,7 +242,7 @@
   },
   "GOOG": {
     "ticker": "GOOG",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -254,7 +254,7 @@
   },
   "MO": {
     "ticker": "MO",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -266,7 +266,7 @@
   },
   "AMZN": {
     "ticker": "AMZN",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -278,7 +278,7 @@
   },
   "AMCR": {
     "ticker": "AMCR",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -290,7 +290,7 @@
   },
   "AEE": {
     "ticker": "AEE",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -302,7 +302,7 @@
   },
   "AEP": {
     "ticker": "AEP",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -314,7 +314,7 @@
   },
   "AXP": {
     "ticker": "AXP",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -326,7 +326,7 @@
   },
   "AIG": {
     "ticker": "AIG",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -338,7 +338,7 @@
   },
   "AMT": {
     "ticker": "AMT",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -350,7 +350,7 @@
   },
   "AWK": {
     "ticker": "AWK",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -362,7 +362,7 @@
   },
   "AMP": {
     "ticker": "AMP",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -374,7 +374,7 @@
   },
   "AME": {
     "ticker": "AME",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -386,7 +386,7 @@
   },
   "AMGN": {
     "ticker": "AMGN",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -398,7 +398,7 @@
   },
   "APH": {
     "ticker": "APH",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -410,7 +410,7 @@
   },
   "ADI": {
     "ticker": "ADI",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -422,7 +422,7 @@
   },
   "ANSS": {
     "ticker": "ANSS",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -434,7 +434,7 @@
   },
   "AON": {
     "ticker": "AON",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -446,7 +446,7 @@
   },
   "APA": {
     "ticker": "APA",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -458,7 +458,7 @@
   },
   "APO": {
     "ticker": "APO",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -470,7 +470,7 @@
   },
   "AAPL": {
     "ticker": "AAPL",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -482,7 +482,7 @@
   },
   "AMAT": {
     "ticker": "AMAT",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -494,7 +494,7 @@
   },
   "APTV": {
     "ticker": "APTV",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -506,7 +506,7 @@
   },
   "ACGL": {
     "ticker": "ACGL",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -518,7 +518,7 @@
   },
   "ADM": {
     "ticker": "ADM",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -530,7 +530,7 @@
   },
   "ANET": {
     "ticker": "ANET",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -542,7 +542,7 @@
   },
   "AJG": {
     "ticker": "AJG",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -554,7 +554,7 @@
   },
   "AIZ": {
     "ticker": "AIZ",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -566,7 +566,7 @@
   },
   "T": {
     "ticker": "T",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -578,7 +578,7 @@
   },
   "ATO": {
     "ticker": "ATO",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -590,7 +590,7 @@
   },
   "ADSK": {
     "ticker": "ADSK",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -602,7 +602,7 @@
   },
   "ADP": {
     "ticker": "ADP",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -614,7 +614,7 @@
   },
   "AZO": {
     "ticker": "AZO",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -626,7 +626,7 @@
   },
   "AVB": {
     "ticker": "AVB",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -638,7 +638,7 @@
   },
   "AVY": {
     "ticker": "AVY",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -650,7 +650,7 @@
   },
   "AXON": {
     "ticker": "AXON",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -662,7 +662,7 @@
   },
   "BKR": {
     "ticker": "BKR",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -674,7 +674,7 @@
   },
   "BALL": {
     "ticker": "BALL",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -686,7 +686,7 @@
   },
   "BAC": {
     "ticker": "BAC",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -698,7 +698,7 @@
   },
   "BAX": {
     "ticker": "BAX",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -710,7 +710,7 @@
   },
   "BDX": {
     "ticker": "BDX",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -722,7 +722,7 @@
   },
   "BRK.B": {
     "ticker": "BRK.B",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [],
     "bonuses": [],
     "sources": [],
@@ -732,7 +732,7 @@
   },
   "BBY": {
     "ticker": "BBY",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -744,7 +744,7 @@
   },
   "TECH": {
     "ticker": "TECH",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -756,7 +756,7 @@
   },
   "BIIB": {
     "ticker": "BIIB",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -768,7 +768,7 @@
   },
   "BLK": {
     "ticker": "BLK",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -780,7 +780,7 @@
   },
   "BX": {
     "ticker": "BX",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -792,7 +792,7 @@
   },
   "BK": {
     "ticker": "BK",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -804,7 +804,7 @@
   },
   "BA": {
     "ticker": "BA",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -816,7 +816,7 @@
   },
   "BKNG": {
     "ticker": "BKNG",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -828,7 +828,7 @@
   },
   "BSX": {
     "ticker": "BSX",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -840,7 +840,7 @@
   },
   "BMY": {
     "ticker": "BMY",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -852,7 +852,7 @@
   },
   "AVGO": {
     "ticker": "AVGO",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -864,7 +864,7 @@
   },
   "BR": {
     "ticker": "BR",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -876,7 +876,7 @@
   },
   "BRO": {
     "ticker": "BRO",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -888,7 +888,7 @@
   },
   "BF.B": {
     "ticker": "BF.B",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [],
     "bonuses": [],
     "sources": [],
@@ -898,7 +898,7 @@
   },
   "BLDR": {
     "ticker": "BLDR",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -910,7 +910,7 @@
   },
   "BG": {
     "ticker": "BG",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -922,7 +922,7 @@
   },
   "BXP": {
     "ticker": "BXP",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -934,7 +934,7 @@
   },
   "CHRW": {
     "ticker": "CHRW",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -946,7 +946,7 @@
   },
   "CDNS": {
     "ticker": "CDNS",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -958,7 +958,7 @@
   },
   "CZR": {
     "ticker": "CZR",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -970,7 +970,7 @@
   },
   "CPT": {
     "ticker": "CPT",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -982,7 +982,7 @@
   },
   "CPB": {
     "ticker": "CPB",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -994,7 +994,7 @@
   },
   "COF": {
     "ticker": "COF",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1006,7 +1006,7 @@
   },
   "CAH": {
     "ticker": "CAH",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1018,7 +1018,7 @@
   },
   "KMX": {
     "ticker": "KMX",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1030,7 +1030,7 @@
   },
   "CCL": {
     "ticker": "CCL",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1042,7 +1042,7 @@
   },
   "CARR": {
     "ticker": "CARR",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1054,7 +1054,7 @@
   },
   "CAT": {
     "ticker": "CAT",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1066,7 +1066,7 @@
   },
   "CBOE": {
     "ticker": "CBOE",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1078,7 +1078,7 @@
   },
   "CBRE": {
     "ticker": "CBRE",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1090,7 +1090,7 @@
   },
   "CDW": {
     "ticker": "CDW",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1102,7 +1102,7 @@
   },
   "COR": {
     "ticker": "COR",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1114,7 +1114,7 @@
   },
   "CNC": {
     "ticker": "CNC",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1126,7 +1126,7 @@
   },
   "CNP": {
     "ticker": "CNP",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1138,7 +1138,7 @@
   },
   "CF": {
     "ticker": "CF",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1150,7 +1150,7 @@
   },
   "CRL": {
     "ticker": "CRL",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1162,7 +1162,7 @@
   },
   "SCHW": {
     "ticker": "SCHW",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1174,7 +1174,7 @@
   },
   "CHTR": {
     "ticker": "CHTR",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1186,7 +1186,7 @@
   },
   "CVX": {
     "ticker": "CVX",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1198,7 +1198,7 @@
   },
   "CMG": {
     "ticker": "CMG",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1210,7 +1210,7 @@
   },
   "CB": {
     "ticker": "CB",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1222,7 +1222,7 @@
   },
   "CHD": {
     "ticker": "CHD",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1234,7 +1234,7 @@
   },
   "CI": {
     "ticker": "CI",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1246,7 +1246,7 @@
   },
   "CINF": {
     "ticker": "CINF",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1258,7 +1258,7 @@
   },
   "CTAS": {
     "ticker": "CTAS",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1270,7 +1270,7 @@
   },
   "CSCO": {
     "ticker": "CSCO",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1282,7 +1282,7 @@
   },
   "C": {
     "ticker": "C",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1294,7 +1294,7 @@
   },
   "CFG": {
     "ticker": "CFG",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1306,7 +1306,7 @@
   },
   "CLX": {
     "ticker": "CLX",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1318,7 +1318,7 @@
   },
   "CME": {
     "ticker": "CME",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1330,7 +1330,7 @@
   },
   "CMS": {
     "ticker": "CMS",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1342,7 +1342,7 @@
   },
   "KO": {
     "ticker": "KO",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1354,7 +1354,7 @@
   },
   "CTSH": {
     "ticker": "CTSH",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1366,7 +1366,7 @@
   },
   "COIN": {
     "ticker": "COIN",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1378,7 +1378,7 @@
   },
   "CL": {
     "ticker": "CL",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1390,7 +1390,7 @@
   },
   "CMCSA": {
     "ticker": "CMCSA",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1402,7 +1402,7 @@
   },
   "CAG": {
     "ticker": "CAG",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1414,7 +1414,7 @@
   },
   "COP": {
     "ticker": "COP",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1426,7 +1426,7 @@
   },
   "ED": {
     "ticker": "ED",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1438,7 +1438,7 @@
   },
   "STZ": {
     "ticker": "STZ",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1450,7 +1450,7 @@
   },
   "CEG": {
     "ticker": "CEG",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1462,7 +1462,7 @@
   },
   "COO": {
     "ticker": "COO",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1474,7 +1474,7 @@
   },
   "CPRT": {
     "ticker": "CPRT",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1486,7 +1486,7 @@
   },
   "GLW": {
     "ticker": "GLW",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1498,7 +1498,7 @@
   },
   "CPAY": {
     "ticker": "CPAY",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1510,7 +1510,7 @@
   },
   "CTVA": {
     "ticker": "CTVA",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1522,7 +1522,7 @@
   },
   "CSGP": {
     "ticker": "CSGP",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1534,7 +1534,7 @@
   },
   "COST": {
     "ticker": "COST",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1546,7 +1546,7 @@
   },
   "CTRA": {
     "ticker": "CTRA",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1558,7 +1558,7 @@
   },
   "CRWD": {
     "ticker": "CRWD",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1570,7 +1570,7 @@
   },
   "CCI": {
     "ticker": "CCI",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1582,7 +1582,7 @@
   },
   "CSX": {
     "ticker": "CSX",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1594,7 +1594,7 @@
   },
   "CMI": {
     "ticker": "CMI",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1606,7 +1606,7 @@
   },
   "CVS": {
     "ticker": "CVS",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1618,7 +1618,7 @@
   },
   "DHR": {
     "ticker": "DHR",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1630,7 +1630,7 @@
   },
   "DRI": {
     "ticker": "DRI",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1642,7 +1642,7 @@
   },
   "DVA": {
     "ticker": "DVA",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1654,7 +1654,7 @@
   },
   "DAY": {
     "ticker": "DAY",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1666,7 +1666,7 @@
   },
   "DECK": {
     "ticker": "DECK",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1678,7 +1678,7 @@
   },
   "DE": {
     "ticker": "DE",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1690,7 +1690,7 @@
   },
   "DELL": {
     "ticker": "DELL",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1702,7 +1702,7 @@
   },
   "DAL": {
     "ticker": "DAL",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1714,7 +1714,7 @@
   },
   "DVN": {
     "ticker": "DVN",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1726,7 +1726,7 @@
   },
   "DXCM": {
     "ticker": "DXCM",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1738,7 +1738,7 @@
   },
   "FANG": {
     "ticker": "FANG",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1750,7 +1750,7 @@
   },
   "DLR": {
     "ticker": "DLR",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1762,7 +1762,7 @@
   },
   "DG": {
     "ticker": "DG",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1774,7 +1774,7 @@
   },
   "DLTR": {
     "ticker": "DLTR",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1786,7 +1786,7 @@
   },
   "D": {
     "ticker": "D",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1798,7 +1798,7 @@
   },
   "DPZ": {
     "ticker": "DPZ",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1810,7 +1810,7 @@
   },
   "DASH": {
     "ticker": "DASH",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1822,7 +1822,7 @@
   },
   "DOV": {
     "ticker": "DOV",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1834,7 +1834,7 @@
   },
   "DOW": {
     "ticker": "DOW",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1846,7 +1846,7 @@
   },
   "DHI": {
     "ticker": "DHI",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1858,7 +1858,7 @@
   },
   "DTE": {
     "ticker": "DTE",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1870,7 +1870,7 @@
   },
   "DUK": {
     "ticker": "DUK",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1882,7 +1882,7 @@
   },
   "DD": {
     "ticker": "DD",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1894,7 +1894,7 @@
   },
   "EMN": {
     "ticker": "EMN",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1906,7 +1906,7 @@
   },
   "ETN": {
     "ticker": "ETN",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1918,7 +1918,7 @@
   },
   "EBAY": {
     "ticker": "EBAY",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1930,7 +1930,7 @@
   },
   "ECL": {
     "ticker": "ECL",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1942,7 +1942,7 @@
   },
   "EIX": {
     "ticker": "EIX",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1954,7 +1954,7 @@
   },
   "EW": {
     "ticker": "EW",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1966,7 +1966,7 @@
   },
   "EA": {
     "ticker": "EA",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1978,7 +1978,7 @@
   },
   "ELV": {
     "ticker": "ELV",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -1990,7 +1990,7 @@
   },
   "EMR": {
     "ticker": "EMR",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2002,7 +2002,7 @@
   },
   "ENPH": {
     "ticker": "ENPH",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2014,7 +2014,7 @@
   },
   "ETR": {
     "ticker": "ETR",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2026,7 +2026,7 @@
   },
   "EOG": {
     "ticker": "EOG",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2038,7 +2038,7 @@
   },
   "EPAM": {
     "ticker": "EPAM",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2050,7 +2050,7 @@
   },
   "EQT": {
     "ticker": "EQT",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2062,7 +2062,7 @@
   },
   "EFX": {
     "ticker": "EFX",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2074,7 +2074,7 @@
   },
   "EQIX": {
     "ticker": "EQIX",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2086,7 +2086,7 @@
   },
   "EQR": {
     "ticker": "EQR",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2098,7 +2098,7 @@
   },
   "ERIE": {
     "ticker": "ERIE",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2110,7 +2110,7 @@
   },
   "ESS": {
     "ticker": "ESS",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2122,7 +2122,7 @@
   },
   "EL": {
     "ticker": "EL",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2134,7 +2134,7 @@
   },
   "EG": {
     "ticker": "EG",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2146,7 +2146,7 @@
   },
   "EVRG": {
     "ticker": "EVRG",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2158,7 +2158,7 @@
   },
   "ES": {
     "ticker": "ES",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2170,7 +2170,7 @@
   },
   "EXC": {
     "ticker": "EXC",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2182,7 +2182,7 @@
   },
   "EXE": {
     "ticker": "EXE",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2194,7 +2194,7 @@
   },
   "EXPE": {
     "ticker": "EXPE",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2206,7 +2206,7 @@
   },
   "EXPD": {
     "ticker": "EXPD",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2218,7 +2218,7 @@
   },
   "EXR": {
     "ticker": "EXR",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2230,7 +2230,7 @@
   },
   "XOM": {
     "ticker": "XOM",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2242,7 +2242,7 @@
   },
   "FFIV": {
     "ticker": "FFIV",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2254,7 +2254,7 @@
   },
   "FDS": {
     "ticker": "FDS",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2266,7 +2266,7 @@
   },
   "FICO": {
     "ticker": "FICO",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2278,7 +2278,7 @@
   },
   "FAST": {
     "ticker": "FAST",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2290,7 +2290,7 @@
   },
   "FRT": {
     "ticker": "FRT",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2302,7 +2302,7 @@
   },
   "FDX": {
     "ticker": "FDX",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2314,7 +2314,7 @@
   },
   "FIS": {
     "ticker": "FIS",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2326,7 +2326,7 @@
   },
   "FITB": {
     "ticker": "FITB",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2338,7 +2338,7 @@
   },
   "FSLR": {
     "ticker": "FSLR",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2350,7 +2350,7 @@
   },
   "FE": {
     "ticker": "FE",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2362,7 +2362,7 @@
   },
   "FI": {
     "ticker": "FI",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2374,7 +2374,7 @@
   },
   "F": {
     "ticker": "F",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2386,7 +2386,7 @@
   },
   "FTNT": {
     "ticker": "FTNT",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2398,7 +2398,7 @@
   },
   "FTV": {
     "ticker": "FTV",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2410,7 +2410,7 @@
   },
   "FOXA": {
     "ticker": "FOXA",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2422,7 +2422,7 @@
   },
   "FOX": {
     "ticker": "FOX",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2434,7 +2434,7 @@
   },
   "BEN": {
     "ticker": "BEN",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2446,7 +2446,7 @@
   },
   "FCX": {
     "ticker": "FCX",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2458,7 +2458,7 @@
   },
   "GRMN": {
     "ticker": "GRMN",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2470,7 +2470,7 @@
   },
   "IT": {
     "ticker": "IT",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2482,7 +2482,7 @@
   },
   "GE": {
     "ticker": "GE",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2494,7 +2494,7 @@
   },
   "GEHC": {
     "ticker": "GEHC",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2506,7 +2506,7 @@
   },
   "GEV": {
     "ticker": "GEV",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2518,7 +2518,7 @@
   },
   "GEN": {
     "ticker": "GEN",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2530,7 +2530,7 @@
   },
   "GNRC": {
     "ticker": "GNRC",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2542,7 +2542,7 @@
   },
   "GD": {
     "ticker": "GD",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2554,7 +2554,7 @@
   },
   "GIS": {
     "ticker": "GIS",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2566,7 +2566,7 @@
   },
   "GM": {
     "ticker": "GM",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2578,7 +2578,7 @@
   },
   "GPC": {
     "ticker": "GPC",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2590,7 +2590,7 @@
   },
   "GILD": {
     "ticker": "GILD",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2602,7 +2602,7 @@
   },
   "GPN": {
     "ticker": "GPN",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2614,7 +2614,7 @@
   },
   "GL": {
     "ticker": "GL",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2626,7 +2626,7 @@
   },
   "GDDY": {
     "ticker": "GDDY",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2638,7 +2638,7 @@
   },
   "GS": {
     "ticker": "GS",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2650,7 +2650,7 @@
   },
   "HAL": {
     "ticker": "HAL",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2662,7 +2662,7 @@
   },
   "HIG": {
     "ticker": "HIG",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2674,7 +2674,7 @@
   },
   "HAS": {
     "ticker": "HAS",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2686,7 +2686,7 @@
   },
   "HCA": {
     "ticker": "HCA",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2698,7 +2698,7 @@
   },
   "DOC": {
     "ticker": "DOC",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2710,7 +2710,7 @@
   },
   "HSIC": {
     "ticker": "HSIC",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2722,7 +2722,7 @@
   },
   "HSY": {
     "ticker": "HSY",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2734,7 +2734,7 @@
   },
   "HES": {
     "ticker": "HES",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2746,7 +2746,7 @@
   },
   "HPE": {
     "ticker": "HPE",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2758,7 +2758,7 @@
   },
   "HLT": {
     "ticker": "HLT",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2770,7 +2770,7 @@
   },
   "HOLX": {
     "ticker": "HOLX",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2782,7 +2782,7 @@
   },
   "HD": {
     "ticker": "HD",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2794,7 +2794,7 @@
   },
   "HON": {
     "ticker": "HON",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2806,7 +2806,7 @@
   },
   "HRL": {
     "ticker": "HRL",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2818,7 +2818,7 @@
   },
   "HST": {
     "ticker": "HST",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2830,7 +2830,7 @@
   },
   "HWM": {
     "ticker": "HWM",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2842,7 +2842,7 @@
   },
   "HPQ": {
     "ticker": "HPQ",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2854,7 +2854,7 @@
   },
   "HUBB": {
     "ticker": "HUBB",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2866,7 +2866,7 @@
   },
   "HUM": {
     "ticker": "HUM",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2878,7 +2878,7 @@
   },
   "HBAN": {
     "ticker": "HBAN",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2890,7 +2890,7 @@
   },
   "HII": {
     "ticker": "HII",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "ARMS",
       "FAITH_PERSEC"
@@ -2903,7 +2903,7 @@
   },
   "IBM": {
     "ticker": "IBM",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2915,7 +2915,7 @@
   },
   "IEX": {
     "ticker": "IEX",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2927,7 +2927,7 @@
   },
   "IDXX": {
     "ticker": "IDXX",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2939,7 +2939,7 @@
   },
   "ITW": {
     "ticker": "ITW",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2951,7 +2951,7 @@
   },
   "INCY": {
     "ticker": "INCY",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2963,7 +2963,7 @@
   },
   "IR": {
     "ticker": "IR",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2975,7 +2975,7 @@
   },
   "PODD": {
     "ticker": "PODD",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2987,7 +2987,7 @@
   },
   "INTC": {
     "ticker": "INTC",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -2999,7 +2999,7 @@
   },
   "ICE": {
     "ticker": "ICE",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3011,7 +3011,7 @@
   },
   "IFF": {
     "ticker": "IFF",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3023,7 +3023,7 @@
   },
   "IP": {
     "ticker": "IP",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3035,7 +3035,7 @@
   },
   "IPG": {
     "ticker": "IPG",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3047,7 +3047,7 @@
   },
   "INTU": {
     "ticker": "INTU",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3059,7 +3059,7 @@
   },
   "ISRG": {
     "ticker": "ISRG",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3071,7 +3071,7 @@
   },
   "IVZ": {
     "ticker": "IVZ",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3083,7 +3083,7 @@
   },
   "INVH": {
     "ticker": "INVH",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3095,7 +3095,7 @@
   },
   "IQV": {
     "ticker": "IQV",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3107,7 +3107,7 @@
   },
   "IRM": {
     "ticker": "IRM",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3119,7 +3119,7 @@
   },
   "JBHT": {
     "ticker": "JBHT",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3131,7 +3131,7 @@
   },
   "JBL": {
     "ticker": "JBL",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3143,7 +3143,7 @@
   },
   "JKHY": {
     "ticker": "JKHY",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3155,7 +3155,7 @@
   },
   "J": {
     "ticker": "J",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3167,7 +3167,7 @@
   },
   "JNJ": {
     "ticker": "JNJ",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3179,7 +3179,7 @@
   },
   "JCI": {
     "ticker": "JCI",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3191,7 +3191,7 @@
   },
   "JPM": {
     "ticker": "JPM",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3203,7 +3203,7 @@
   },
   "JNPR": {
     "ticker": "JNPR",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3215,7 +3215,7 @@
   },
   "K": {
     "ticker": "K",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3227,7 +3227,7 @@
   },
   "KVUE": {
     "ticker": "KVUE",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3239,7 +3239,7 @@
   },
   "KDP": {
     "ticker": "KDP",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3251,7 +3251,7 @@
   },
   "KEY": {
     "ticker": "KEY",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3263,7 +3263,7 @@
   },
   "KEYS": {
     "ticker": "KEYS",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3275,7 +3275,7 @@
   },
   "KMB": {
     "ticker": "KMB",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3287,7 +3287,7 @@
   },
   "KIM": {
     "ticker": "KIM",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3299,7 +3299,7 @@
   },
   "KMI": {
     "ticker": "KMI",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3311,7 +3311,7 @@
   },
   "KKR": {
     "ticker": "KKR",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3323,7 +3323,7 @@
   },
   "KLAC": {
     "ticker": "KLAC",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3335,7 +3335,7 @@
   },
   "KHC": {
     "ticker": "KHC",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3347,7 +3347,7 @@
   },
   "KR": {
     "ticker": "KR",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3359,7 +3359,7 @@
   },
   "LHX": {
     "ticker": "LHX",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3371,7 +3371,7 @@
   },
   "LH": {
     "ticker": "LH",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3383,7 +3383,7 @@
   },
   "LRCX": {
     "ticker": "LRCX",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3395,7 +3395,7 @@
   },
   "LW": {
     "ticker": "LW",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3407,7 +3407,7 @@
   },
   "LVS": {
     "ticker": "LVS",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3419,7 +3419,7 @@
   },
   "LDOS": {
     "ticker": "LDOS",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3431,7 +3431,7 @@
   },
   "LEN": {
     "ticker": "LEN",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3443,7 +3443,7 @@
   },
   "LII": {
     "ticker": "LII",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3455,7 +3455,7 @@
   },
   "LLY": {
     "ticker": "LLY",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3467,7 +3467,7 @@
   },
   "LIN": {
     "ticker": "LIN",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3479,7 +3479,7 @@
   },
   "LYV": {
     "ticker": "LYV",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3491,7 +3491,7 @@
   },
   "LKQ": {
     "ticker": "LKQ",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3503,7 +3503,7 @@
   },
   "LMT": {
     "ticker": "LMT",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3515,7 +3515,7 @@
   },
   "L": {
     "ticker": "L",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3527,7 +3527,7 @@
   },
   "LOW": {
     "ticker": "LOW",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3539,7 +3539,7 @@
   },
   "LULU": {
     "ticker": "LULU",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3551,7 +3551,7 @@
   },
   "LYB": {
     "ticker": "LYB",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3563,7 +3563,7 @@
   },
   "MTB": {
     "ticker": "MTB",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3575,7 +3575,7 @@
   },
   "MPC": {
     "ticker": "MPC",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3587,7 +3587,7 @@
   },
   "MKTX": {
     "ticker": "MKTX",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3599,7 +3599,7 @@
   },
   "MAR": {
     "ticker": "MAR",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3611,7 +3611,7 @@
   },
   "MMC": {
     "ticker": "MMC",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3623,7 +3623,7 @@
   },
   "MLM": {
     "ticker": "MLM",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3635,7 +3635,7 @@
   },
   "MAS": {
     "ticker": "MAS",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3647,7 +3647,7 @@
   },
   "MA": {
     "ticker": "MA",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3659,7 +3659,7 @@
   },
   "MTCH": {
     "ticker": "MTCH",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3671,7 +3671,7 @@
   },
   "MKC": {
     "ticker": "MKC",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3683,7 +3683,7 @@
   },
   "MCD": {
     "ticker": "MCD",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3695,7 +3695,7 @@
   },
   "MCK": {
     "ticker": "MCK",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3707,7 +3707,7 @@
   },
   "MDT": {
     "ticker": "MDT",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3719,7 +3719,7 @@
   },
   "MRK": {
     "ticker": "MRK",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3731,7 +3731,7 @@
   },
   "META": {
     "ticker": "META",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3743,7 +3743,7 @@
   },
   "MET": {
     "ticker": "MET",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3755,7 +3755,7 @@
   },
   "MTD": {
     "ticker": "MTD",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3767,7 +3767,7 @@
   },
   "MGM": {
     "ticker": "MGM",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3779,7 +3779,7 @@
   },
   "MCHP": {
     "ticker": "MCHP",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3791,7 +3791,7 @@
   },
   "MU": {
     "ticker": "MU",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3803,7 +3803,7 @@
   },
   "MSFT": {
     "ticker": "MSFT",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3815,7 +3815,7 @@
   },
   "MAA": {
     "ticker": "MAA",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3827,7 +3827,7 @@
   },
   "MRNA": {
     "ticker": "MRNA",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3839,7 +3839,7 @@
   },
   "MHK": {
     "ticker": "MHK",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3851,7 +3851,7 @@
   },
   "MOH": {
     "ticker": "MOH",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3863,7 +3863,7 @@
   },
   "TAP": {
     "ticker": "TAP",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3875,7 +3875,7 @@
   },
   "MDLZ": {
     "ticker": "MDLZ",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3887,7 +3887,7 @@
   },
   "MPWR": {
     "ticker": "MPWR",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3899,7 +3899,7 @@
   },
   "MNST": {
     "ticker": "MNST",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3911,7 +3911,7 @@
   },
   "MCO": {
     "ticker": "MCO",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3923,7 +3923,7 @@
   },
   "MS": {
     "ticker": "MS",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3935,7 +3935,7 @@
   },
   "MOS": {
     "ticker": "MOS",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3947,7 +3947,7 @@
   },
   "MSI": {
     "ticker": "MSI",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3959,7 +3959,7 @@
   },
   "MSCI": {
     "ticker": "MSCI",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3971,7 +3971,7 @@
   },
   "NDAQ": {
     "ticker": "NDAQ",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3983,7 +3983,7 @@
   },
   "NTAP": {
     "ticker": "NTAP",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -3995,7 +3995,7 @@
   },
   "NFLX": {
     "ticker": "NFLX",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4007,7 +4007,7 @@
   },
   "NEM": {
     "ticker": "NEM",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4019,7 +4019,7 @@
   },
   "NWSA": {
     "ticker": "NWSA",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4031,7 +4031,7 @@
   },
   "NWS": {
     "ticker": "NWS",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4043,7 +4043,7 @@
   },
   "NEE": {
     "ticker": "NEE",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4055,7 +4055,7 @@
   },
   "NKE": {
     "ticker": "NKE",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4067,7 +4067,7 @@
   },
   "NI": {
     "ticker": "NI",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4079,7 +4079,7 @@
   },
   "NDSN": {
     "ticker": "NDSN",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4091,7 +4091,7 @@
   },
   "NSC": {
     "ticker": "NSC",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4103,7 +4103,7 @@
   },
   "NTRS": {
     "ticker": "NTRS",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4115,7 +4115,7 @@
   },
   "NOC": {
     "ticker": "NOC",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4127,7 +4127,7 @@
   },
   "NCLH": {
     "ticker": "NCLH",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4139,7 +4139,7 @@
   },
   "NRG": {
     "ticker": "NRG",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4151,7 +4151,7 @@
   },
   "NUE": {
     "ticker": "NUE",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4163,7 +4163,7 @@
   },
   "NVDA": {
     "ticker": "NVDA",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4175,7 +4175,7 @@
   },
   "NVR": {
     "ticker": "NVR",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4187,7 +4187,7 @@
   },
   "NXPI": {
     "ticker": "NXPI",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4199,7 +4199,7 @@
   },
   "ORLY": {
     "ticker": "ORLY",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4211,7 +4211,7 @@
   },
   "OXY": {
     "ticker": "OXY",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4223,7 +4223,7 @@
   },
   "ODFL": {
     "ticker": "ODFL",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4235,7 +4235,7 @@
   },
   "OMC": {
     "ticker": "OMC",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4247,7 +4247,7 @@
   },
   "ON": {
     "ticker": "ON",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4259,7 +4259,7 @@
   },
   "OKE": {
     "ticker": "OKE",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4271,7 +4271,7 @@
   },
   "ORCL": {
     "ticker": "ORCL",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4283,7 +4283,7 @@
   },
   "OTIS": {
     "ticker": "OTIS",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4295,7 +4295,7 @@
   },
   "PCAR": {
     "ticker": "PCAR",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4307,7 +4307,7 @@
   },
   "PKG": {
     "ticker": "PKG",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4319,7 +4319,7 @@
   },
   "PLTR": {
     "ticker": "PLTR",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4331,7 +4331,7 @@
   },
   "PANW": {
     "ticker": "PANW",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4343,7 +4343,7 @@
   },
   "PARA": {
     "ticker": "PARA",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4355,7 +4355,7 @@
   },
   "PH": {
     "ticker": "PH",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4367,7 +4367,7 @@
   },
   "PAYX": {
     "ticker": "PAYX",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4379,7 +4379,7 @@
   },
   "PAYC": {
     "ticker": "PAYC",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4391,7 +4391,7 @@
   },
   "PYPL": {
     "ticker": "PYPL",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4403,7 +4403,7 @@
   },
   "PNR": {
     "ticker": "PNR",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4415,7 +4415,7 @@
   },
   "PEP": {
     "ticker": "PEP",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4427,7 +4427,7 @@
   },
   "PFE": {
     "ticker": "PFE",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4439,7 +4439,7 @@
   },
   "PCG": {
     "ticker": "PCG",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4451,7 +4451,7 @@
   },
   "PM": {
     "ticker": "PM",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4463,7 +4463,7 @@
   },
   "PSX": {
     "ticker": "PSX",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4475,7 +4475,7 @@
   },
   "PNW": {
     "ticker": "PNW",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4487,7 +4487,7 @@
   },
   "PNC": {
     "ticker": "PNC",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4499,7 +4499,7 @@
   },
   "POOL": {
     "ticker": "POOL",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4511,7 +4511,7 @@
   },
   "PPG": {
     "ticker": "PPG",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4523,7 +4523,7 @@
   },
   "PPL": {
     "ticker": "PPL",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4535,7 +4535,7 @@
   },
   "PFG": {
     "ticker": "PFG",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4547,7 +4547,7 @@
   },
   "PG": {
     "ticker": "PG",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4559,7 +4559,7 @@
   },
   "PGR": {
     "ticker": "PGR",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4571,7 +4571,7 @@
   },
   "PLD": {
     "ticker": "PLD",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4583,7 +4583,7 @@
   },
   "PRU": {
     "ticker": "PRU",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4595,7 +4595,7 @@
   },
   "PEG": {
     "ticker": "PEG",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4607,7 +4607,7 @@
   },
   "PTC": {
     "ticker": "PTC",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4619,7 +4619,7 @@
   },
   "PSA": {
     "ticker": "PSA",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4631,7 +4631,7 @@
   },
   "PHM": {
     "ticker": "PHM",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4643,7 +4643,7 @@
   },
   "PWR": {
     "ticker": "PWR",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4655,7 +4655,7 @@
   },
   "QCOM": {
     "ticker": "QCOM",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4667,7 +4667,7 @@
   },
   "DGX": {
     "ticker": "DGX",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4679,7 +4679,7 @@
   },
   "RL": {
     "ticker": "RL",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4691,7 +4691,7 @@
   },
   "RJF": {
     "ticker": "RJF",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4703,7 +4703,7 @@
   },
   "RTX": {
     "ticker": "RTX",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "ARMS",
       "FAITH_PERSEC"
@@ -4716,7 +4716,7 @@
   },
   "O": {
     "ticker": "O",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4728,7 +4728,7 @@
   },
   "REG": {
     "ticker": "REG",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4740,7 +4740,7 @@
   },
   "REGN": {
     "ticker": "REGN",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4752,7 +4752,7 @@
   },
   "RF": {
     "ticker": "RF",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4764,7 +4764,7 @@
   },
   "RSG": {
     "ticker": "RSG",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4776,7 +4776,7 @@
   },
   "RMD": {
     "ticker": "RMD",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4788,7 +4788,7 @@
   },
   "RVTY": {
     "ticker": "RVTY",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4800,7 +4800,7 @@
   },
   "ROK": {
     "ticker": "ROK",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4812,7 +4812,7 @@
   },
   "ROL": {
     "ticker": "ROL",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4824,7 +4824,7 @@
   },
   "ROP": {
     "ticker": "ROP",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4836,7 +4836,7 @@
   },
   "ROST": {
     "ticker": "ROST",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4848,7 +4848,7 @@
   },
   "RCL": {
     "ticker": "RCL",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4860,7 +4860,7 @@
   },
   "SPGI": {
     "ticker": "SPGI",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4872,7 +4872,7 @@
   },
   "CRM": {
     "ticker": "CRM",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4884,7 +4884,7 @@
   },
   "SBAC": {
     "ticker": "SBAC",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4896,7 +4896,7 @@
   },
   "SLB": {
     "ticker": "SLB",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4908,7 +4908,7 @@
   },
   "STX": {
     "ticker": "STX",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4920,7 +4920,7 @@
   },
   "SRE": {
     "ticker": "SRE",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4932,7 +4932,7 @@
   },
   "NOW": {
     "ticker": "NOW",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4944,7 +4944,7 @@
   },
   "SHW": {
     "ticker": "SHW",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4956,7 +4956,7 @@
   },
   "SPG": {
     "ticker": "SPG",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4968,7 +4968,7 @@
   },
   "SWKS": {
     "ticker": "SWKS",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4980,7 +4980,7 @@
   },
   "SJM": {
     "ticker": "SJM",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -4992,7 +4992,7 @@
   },
   "SW": {
     "ticker": "SW",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5004,7 +5004,7 @@
   },
   "SNA": {
     "ticker": "SNA",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5016,7 +5016,7 @@
   },
   "SOLV": {
     "ticker": "SOLV",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5028,7 +5028,7 @@
   },
   "SO": {
     "ticker": "SO",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5040,7 +5040,7 @@
   },
   "LUV": {
     "ticker": "LUV",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5052,7 +5052,7 @@
   },
   "SWK": {
     "ticker": "SWK",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5064,7 +5064,7 @@
   },
   "SBUX": {
     "ticker": "SBUX",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5076,7 +5076,7 @@
   },
   "STT": {
     "ticker": "STT",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5088,7 +5088,7 @@
   },
   "STLD": {
     "ticker": "STLD",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5100,7 +5100,7 @@
   },
   "STE": {
     "ticker": "STE",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5112,7 +5112,7 @@
   },
   "SYK": {
     "ticker": "SYK",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5124,7 +5124,7 @@
   },
   "SMCI": {
     "ticker": "SMCI",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5136,7 +5136,7 @@
   },
   "SYF": {
     "ticker": "SYF",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5148,7 +5148,7 @@
   },
   "SNPS": {
     "ticker": "SNPS",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5160,7 +5160,7 @@
   },
   "SYY": {
     "ticker": "SYY",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5172,7 +5172,7 @@
   },
   "TMUS": {
     "ticker": "TMUS",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5184,7 +5184,7 @@
   },
   "TROW": {
     "ticker": "TROW",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5196,7 +5196,7 @@
   },
   "TTWO": {
     "ticker": "TTWO",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5208,7 +5208,7 @@
   },
   "TPR": {
     "ticker": "TPR",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5220,7 +5220,7 @@
   },
   "TRGP": {
     "ticker": "TRGP",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5232,7 +5232,7 @@
   },
   "TGT": {
     "ticker": "TGT",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5244,7 +5244,7 @@
   },
   "TEL": {
     "ticker": "TEL",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5256,7 +5256,7 @@
   },
   "TDY": {
     "ticker": "TDY",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5268,7 +5268,7 @@
   },
   "TER": {
     "ticker": "TER",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5280,7 +5280,7 @@
   },
   "TSLA": {
     "ticker": "TSLA",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5292,7 +5292,7 @@
   },
   "TXN": {
     "ticker": "TXN",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5304,7 +5304,7 @@
   },
   "TPL": {
     "ticker": "TPL",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5316,7 +5316,7 @@
   },
   "TXT": {
     "ticker": "TXT",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5328,7 +5328,7 @@
   },
   "TMO": {
     "ticker": "TMO",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5340,7 +5340,7 @@
   },
   "TJX": {
     "ticker": "TJX",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5352,7 +5352,7 @@
   },
   "TKO": {
     "ticker": "TKO",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5364,7 +5364,7 @@
   },
   "TSCO": {
     "ticker": "TSCO",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5376,7 +5376,7 @@
   },
   "TT": {
     "ticker": "TT",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5388,7 +5388,7 @@
   },
   "TDG": {
     "ticker": "TDG",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5400,7 +5400,7 @@
   },
   "TRV": {
     "ticker": "TRV",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5412,7 +5412,7 @@
   },
   "TRMB": {
     "ticker": "TRMB",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5424,7 +5424,7 @@
   },
   "TFC": {
     "ticker": "TFC",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5436,7 +5436,7 @@
   },
   "TYL": {
     "ticker": "TYL",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5448,7 +5448,7 @@
   },
   "TSN": {
     "ticker": "TSN",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5460,7 +5460,7 @@
   },
   "USB": {
     "ticker": "USB",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5472,7 +5472,7 @@
   },
   "UBER": {
     "ticker": "UBER",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5484,7 +5484,7 @@
   },
   "UDR": {
     "ticker": "UDR",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5496,7 +5496,7 @@
   },
   "ULTA": {
     "ticker": "ULTA",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5508,7 +5508,7 @@
   },
   "UNP": {
     "ticker": "UNP",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5520,7 +5520,7 @@
   },
   "UAL": {
     "ticker": "UAL",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5532,7 +5532,7 @@
   },
   "UPS": {
     "ticker": "UPS",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5544,7 +5544,7 @@
   },
   "URI": {
     "ticker": "URI",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5556,7 +5556,7 @@
   },
   "UNH": {
     "ticker": "UNH",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5568,7 +5568,7 @@
   },
   "UHS": {
     "ticker": "UHS",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5580,7 +5580,7 @@
   },
   "VLO": {
     "ticker": "VLO",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5592,7 +5592,7 @@
   },
   "VTR": {
     "ticker": "VTR",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5604,7 +5604,7 @@
   },
   "VLTO": {
     "ticker": "VLTO",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5616,7 +5616,7 @@
   },
   "VRSN": {
     "ticker": "VRSN",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5628,7 +5628,7 @@
   },
   "VRSK": {
     "ticker": "VRSK",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5640,7 +5640,7 @@
   },
   "VZ": {
     "ticker": "VZ",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5652,7 +5652,7 @@
   },
   "VRTX": {
     "ticker": "VRTX",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5664,7 +5664,7 @@
   },
   "VTRS": {
     "ticker": "VTRS",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5676,7 +5676,7 @@
   },
   "VICI": {
     "ticker": "VICI",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5688,7 +5688,7 @@
   },
   "V": {
     "ticker": "V",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5700,7 +5700,7 @@
   },
   "VST": {
     "ticker": "VST",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5712,7 +5712,7 @@
   },
   "VMC": {
     "ticker": "VMC",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5724,7 +5724,7 @@
   },
   "WRB": {
     "ticker": "WRB",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5736,7 +5736,7 @@
   },
   "GWW": {
     "ticker": "GWW",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5748,7 +5748,7 @@
   },
   "WAB": {
     "ticker": "WAB",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5760,7 +5760,7 @@
   },
   "WBA": {
     "ticker": "WBA",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5772,7 +5772,7 @@
   },
   "WMT": {
     "ticker": "WMT",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5784,7 +5784,7 @@
   },
   "DIS": {
     "ticker": "DIS",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5796,7 +5796,7 @@
   },
   "WBD": {
     "ticker": "WBD",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5808,7 +5808,7 @@
   },
   "WM": {
     "ticker": "WM",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5820,7 +5820,7 @@
   },
   "WAT": {
     "ticker": "WAT",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5832,7 +5832,7 @@
   },
   "WEC": {
     "ticker": "WEC",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5844,7 +5844,7 @@
   },
   "WFC": {
     "ticker": "WFC",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5856,7 +5856,7 @@
   },
   "WELL": {
     "ticker": "WELL",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5868,7 +5868,7 @@
   },
   "WST": {
     "ticker": "WST",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5880,7 +5880,7 @@
   },
   "WDC": {
     "ticker": "WDC",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5892,7 +5892,7 @@
   },
   "WY": {
     "ticker": "WY",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5904,7 +5904,7 @@
   },
   "WSM": {
     "ticker": "WSM",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5916,7 +5916,7 @@
   },
   "WMB": {
     "ticker": "WMB",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5928,7 +5928,7 @@
   },
   "WTW": {
     "ticker": "WTW",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5940,7 +5940,7 @@
   },
   "WDAY": {
     "ticker": "WDAY",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5952,7 +5952,7 @@
   },
   "WYNN": {
     "ticker": "WYNN",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5964,7 +5964,7 @@
   },
   "XEL": {
     "ticker": "XEL",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5976,7 +5976,7 @@
   },
   "XYL": {
     "ticker": "XYL",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -5988,7 +5988,7 @@
   },
   "YUM": {
     "ticker": "YUM",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -6000,7 +6000,7 @@
   },
   "ZBRA": {
     "ticker": "ZBRA",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -6012,7 +6012,7 @@
   },
   "ZBH": {
     "ticker": "ZBH",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
@@ -6024,7 +6024,7 @@
   },
   "ZTS": {
     "ticker": "ZTS",
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "absolute_flags": [
       "FAITH_PERSEC"
     ],
